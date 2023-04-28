@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../meme-generator"
+		},
+		{
+			"path": "../practice"
+		},
+		{
+			"path": "../OOPs"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Netflix Clone"
+	}
+}
